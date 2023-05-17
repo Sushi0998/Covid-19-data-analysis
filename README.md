@@ -14,8 +14,10 @@ We first started building the neural network by keeping a sigmoid activation fun
 
 # Selection of hidden layer neurons
 
-
 ![image](https://github.com/Sushi0998/Covid-19-data-analysis-/assets/99321988/0be4a6ee-fa3f-4466-b2cc-dd8794dd4223)
 
 we are looking the layers which corresponds to the lowest test MSE. using the matrix (row and column) we will receive the, number of neurons required for hidden layer 1 and 2
 
+# Result
+
+Hence, we receive the Lowest Test MSE of 0.0559 (for normalized data) and 0.8844 (for denormalized data), using Neural Network.
